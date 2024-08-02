@@ -7,7 +7,7 @@ const path = require('path');
 
 (async () =>{
 
-    const acum = 1;
+  
 
     
     try {
