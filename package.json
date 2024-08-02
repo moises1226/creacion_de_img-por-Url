@@ -1,0 +1,17 @@
+{
+  "name": "conversiondepaginaweb-a-img",
+  "version": "0.0.1",
+  "description": "Creamos una app para que pueda convertir una pagina web en una imagen en formato jpg",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "src/app.js"
+  },
+  "author": "Moises Sopo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "puppeteer": "^22.15.0",
+    "sharp": "^0.33.4"
+  }
+}
